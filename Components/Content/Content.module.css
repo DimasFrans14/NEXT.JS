@@ -1,0 +1,11 @@
+.color-bg{
+    background: linear-gradient(#fff 30%, #4d0170ea );
+    height: 750px;
+    width: 100%;
+}
+
+.color-bg-2{
+    background: linear-gradient(#4d0170ea 50%, #ffffffea );
+    height: 650px;
+    width: 100%;
+}

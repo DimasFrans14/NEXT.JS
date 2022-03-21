@@ -1,0 +1,21 @@
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 40px;
+    overflow: hidden;
+    background-color: #4d0170ea;
+    display: flex;
+    font-weight: bold;
+  }
+
+.li {
+    justify-content: space-between;
+  }
+  
+.item{
+    color: #e9c706ea;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 178px;
+}
